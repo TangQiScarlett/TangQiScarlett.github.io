@@ -8,15 +8,15 @@ layout: page
 
 Here is **Qi Tang (Scarlett, 唐琦)**.
 
-I am currently conducting a *Catholic-themed fieldwork* in the *Philippines*, which is expected to end in September 2024. I received my Master's degree from *Tsinghua University* in June 2023 with a Master's thesis on the topic of Anthropology, prior to which I received my Bachelor's degree in Management in 2020 from *Beijing Sport University*. In addition, I am a *feminist*.
+I am currently conducting a *Catholic-themed fieldwork* in the *Philippines*, which is expected to end in September 2024. I received my Master's degree from Tsinghua University in June 2023 with a Master's thesis on the topic of Anthropology, prior to which I received my Bachelor's degree in Management in 2020 from Beijing Sport University. In addition, I am a feminist.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *18101358006@163[dot]com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *18101358006@163.com*
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD/Mphil to start in 2024 Fall. Contact me if you have any leads!**
 
 - **Sep 2016 - June 2020:** Beijing Sport University (BA)
 - **Sep 2020 - June 2023:** Tsinghua University (MA)
