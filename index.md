@@ -4,13 +4,13 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="tangqi.com/tangqi.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Qi Tang (Scarlett, 唐琦)**.
 
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
+I am currently conducting a *Catholic-themed fieldwork* in the *Philippines*, which is expected to end in September 2024. I received my Master's degree from *Tsinghua University* in June 2023 with a Master's thesis on the topic of Anthropology, prior to which I received my Bachelor's degree in Management in 2020 from *Beijing Sport University*. In addition, I am a *feminist*.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *18101358006@163[dot]com*
 
 <br>
 
@@ -18,10 +18,10 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-- Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
+- **Sep 2016 - June 2020:** Beijing Sport University (BA)
+- **Sep 2020 - June 2023:** Tsinghua University (MA)
+- **Sep 2021 - Oct 2021:** Certificate of International Organization Talent Training Camp in Tsinghua University
+- Expect to apply for a Mphil/PhD program in the area of Anthropology in Sep 2024. 
 
 <br>
 
@@ -29,11 +29,12 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
+- Religious studies: ritual, space, body
+- Medical Pluralism & Stigma of Disease
+- Gender and sexual orientation mobility
+- Southeast Asian cultures: diet, health and social inequality
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My master's thesis revolved around a year-long field study of cancer patients in China, ultimately presenting *a dynamic picture of cancer patients' practice of Daoist concepts through qigong practice*, and summarising the characteristics of the diversity of belief concepts and medical treatment choices of cancer patients through the focus on the body. The thesis won the *Outstanding Thesis Award* from the School of Social Sciences at Tsinghua University. I am currently conducting fieldwork on Catholic rituals and practices in everyday life in the Philippines, where the body and space are also two of the research concerns. In addition, I will also focus on the tension between *traditional South Asian culture and the development of modern industries*, especially e-commerce logistics, as a focus of deeper cultural description.
 
 <br>
 
@@ -41,12 +42,11 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Sep 2023：**Our work [DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **Oct 2023：**Started a local ethnographic study on the spread of Daoism and Christianity.
+- **Sep 2023：**Started a volunteering programme for children with autism and their families.
+- **Jun 2023：**Happy to graduate from Tsinghua University.
+- **Jun 2023：**Happy to be awarded Outstanding Thesis Award from the School of Social Sciences at Tsinghua University.
+- **Jan 2023：**Happy to be awarded Tsinghua University Comprehensive Excellent Scholarship. 
 
 <br>
 
