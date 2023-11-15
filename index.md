@@ -10,7 +10,7 @@ Here is **Qi Tang (Scarlett, 唐琦)**.
 
 I am currently conducting a *Catholic-themed fieldwork* in the *Philippines*, which is expected to end in September 2024. I received my Master's degree from Tsinghua University in June 2023 with a Master's thesis on the topic of Anthropology, prior to which I received my Bachelor's degree in Management in 2020 from Beijing Sport University. In addition, I am a feminist.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *18101358006@163.com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *tangqi7scarlett@gmail.com*
 
 <br>
 
